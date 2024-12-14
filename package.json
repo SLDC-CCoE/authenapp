@@ -1,15 +1,15 @@
 {
-  "name": "AuthenFunction",
-  "version": "1.0.0",
-  "description": "Azure Function for password validation",
-  "main": "index.js",
-  "dependencies": {
-      "crypto-js": "^4.0.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-      "start": "node index.js"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "AuthenFunction",
+    "version": "1.0.0",
+    "description": "Azure Function for password validation",
+    "main": "YourFunctionName/index.js",
+    "dependencies": {
+        "crypto-js": "^4.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node AuthenFunction/index.js"
+    },
+    "author": "",
+    "license": "ISC"
 }
