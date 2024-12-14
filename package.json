@@ -2,7 +2,7 @@
     "name": "AuthenFunction",
     "version": "1.0.0",
     "description": "Azure Function for password validation",
-    "main": "YourFunctionName/index.js",
+    "main": "AuthenFunction/index.js",
     "dependencies": {
         "crypto-js": "^4.0.0"
     },
