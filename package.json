@@ -1,5 +1,5 @@
 {
-  "name": "AuthenticationVB",
+  "name": "AuthenFunction",
   "version": "1.0.0",
   "description": "Azure Function for password validation",
   "main": "index.js",
